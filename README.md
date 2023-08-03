@@ -27,7 +27,8 @@ To use the Enigma machine, create an instance of the EnigmaMachine class with ap
 
 **Example usage:**
 
-``` rotor_settings = [
+``` 
+rotor_settings = [
     ("EKMFLGDQVZNTOWYHXUSPAIBRCJ", "Q", 0, 0),
     ("AJDKSIRUXBLHWTMCQGZNPYFVOE", "E", 0, 0),
     ("BDFHJLCPRTXVZNYEIWGAKMUSQO", "V", 0, 0),
